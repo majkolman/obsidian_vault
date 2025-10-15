@@ -1,0 +1,1 @@
+5 Kvizov, 3 poskuse vsak potrebno narediti 4/5 kvizov pozitivno (>=50%).

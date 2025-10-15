@@ -1,0 +1,1 @@
+If we cant compute f and its derivative df then we shouldnt bother with genetical algorithms
