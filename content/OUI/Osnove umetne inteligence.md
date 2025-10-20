@@ -9,7 +9,7 @@ Predavanja
 ### Predavanja:
 - [[OUI/Predavanja/1/Predavanje 1]]  - Pregled predmeta
 - [[OUI/Predavanja/2/Predavanje 2]]
-- [[Predavanje 3]]
+- [[OUI/Predavanja/3/Predavanje 3]]
 
 ### Vaje:
 - [[Vaje 1]] - Uvod v pandas knjižnico

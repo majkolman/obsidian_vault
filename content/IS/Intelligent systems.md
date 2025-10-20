@@ -16,6 +16,7 @@ The other 50%
 ## Lectures:
 - [[IS/Predavanja/1/Predavanje 1|Predavanje 1]] 
 - [[IS/Predavanja/2/Predavanje 2|Predavanje 2]]
+- [[IS/Predavanja/3/Predavanje 3|Predavanje 3]]
 
 ## Labs:
 Start 13.10.2025
