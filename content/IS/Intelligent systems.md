@@ -17,7 +17,12 @@ The other 50%
 - [[IS/Predavanja/1/Predavanje 1|Predavanje 1]] 
 - [[IS/Predavanja/2/Predavanje 2|Predavanje 2]]
 - [[IS/Predavanja/3/Predavanje 3|Predavanje 3]]
-
+- [[Predavanje 4]]
 ## Labs:
 Start 13.10.2025
+Labs are posted on GitHub:
+https://github.com/azagsam/IS-Course-Labs-UL-FRI
+- Vaje 1 - ni me blo
+- Vaje 2 - ni me blo
+- [[IS/Vaje/3/Vaje 3|Vaje 3]]
 

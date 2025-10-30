@@ -13,5 +13,9 @@ Means we get the argument j of the max value
 ![[Pasted image 20251020132431.png]]
 - **Nearest neighbor classifier**
 	directly estimates the conditional probability using instances near to $x_0$
-	- **K-Nearest neighbor classifier**
-		We take the K nearest instances and using select the classifier of the majority
+### KNN
+**K-Nearest neighbor classifier**
+We take the K nearest instances and using select the classifier of the majority
+
+![[Pasted image 20251020133857.png]]
+![[Pasted image 20251020134145.png]]

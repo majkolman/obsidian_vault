@@ -13,3 +13,5 @@ Predavanja
 
 ### Vaje:
 - [[Vaje 1]] - Uvod v pandas knjižnico
+- Vaje 2 - Me ni blo
+- [[OUI/Vaje/3/Vaje 3]] - Točnost in rezanje dreves
