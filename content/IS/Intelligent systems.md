@@ -17,7 +17,8 @@ The other 50%
 - [[IS/Predavanja/1/Predavanje 1|Predavanje 1]] 
 - [[IS/Predavanja/2/Predavanje 2|Predavanje 2]]
 - [[IS/Predavanja/3/Predavanje 3|Predavanje 3]]
-- [[Predavanje 4]]
+- [[IS/Predavanja/4/Predavanje 4]]
+- [[IS/Predavanja/5/Predavanje 5]]
 ## Labs:
 Start 13.10.2025
 Labs are posted on GitHub:

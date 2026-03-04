@@ -10,8 +10,9 @@ Predavanja
 - [[OUI/Predavanja/1/Predavanje 1]]  - Pregled predmeta
 - [[OUI/Predavanja/2/Predavanje 2]]
 - [[OUI/Predavanja/3/Predavanje 3]]
+- [[OUI/Predavanja/4/Predavanje 4|Predavanje 4]]
 
 ### Vaje:
-- [[Vaje 1]] - Uvod v pandas knjižnico
+- [[OUI/Vaje/1/Vaje 1]] - Uvod v pandas knjižnico
 - Vaje 2 - Me ni blo
 - [[OUI/Vaje/3/Vaje 3]] - Točnost in rezanje dreves
