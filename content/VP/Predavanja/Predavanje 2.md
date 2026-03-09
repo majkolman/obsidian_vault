@@ -10,11 +10,13 @@ Stack Canary
 
 	ko se vrnes pogledas ce je vrednost ista
 
-aseembly kode je objdump <ime>
+aseembly kode je 
+objdump -d <ime>
 
 ![[VarProg2.pdf]]
 
-
-
-
-
+gdb:
+c -> continue
+ni -> next instruction
+disass <ime> -> dissasembly
+x/<num>gx <addr>

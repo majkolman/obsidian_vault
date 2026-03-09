@@ -49,3 +49,9 @@ $tržna kapitalizacija = stevilo delnic * vrednost delnice$
 $ROE = \frac{NetIncome}{Sales} * \frac{Sales}{TotalAssets} * \frac{TotalAssets}{Equity}$
 se pokrajsa v 
 $ROE = \frac{NetIncome}{Equity}$
+
+COMPEHENSIVE INCOME - vlagatelj?
+CONSOLIDATED INCONE - ??
+finance yahoo -> Close price at time of report (closest time) = trzna kapitalizacija
+==za racunanje ROE pri investing in oceni uporabis trzni!!==
+
