@@ -11,6 +11,7 @@ Predavanja
 - [[OUI/Predavanja/2/Predavanje 2]]
 - [[OUI/Predavanja/3/Predavanje 3]]
 - [[OUI/Predavanja/4/Predavanje 4|Predavanje 4]]
+- [[OUI/Predavanja/5/Predavanje 5|Predavanje 5]]
 
 ### Vaje:
 - [[OUI/Vaje/1/Vaje 1]] - Uvod v pandas knjižnico
