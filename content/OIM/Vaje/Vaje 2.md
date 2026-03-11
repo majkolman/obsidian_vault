@@ -1,10 +1,11 @@
+4.3
 Ocenjevanje podjetjev
 
 ROE & ROA
 
 ROA je donosnost sredstev (return on assets)
 ROE (return on equity)
-$ROA = \frac{dobiček}{vsa sredstva} = \frac{dobiček}{kapital} (ROE) * \frac{kapital}{vsa sredstva}$
+$ROA = \frac{dobiček}{vsa \: sredstva} = \frac{dobiček}{kapital} (ROE) * \frac{kapital}{vsa \: sredstva}$
 
 npr.
 profit = 325
@@ -42,13 +43,13 @@ ROE je pomemben za primerjavo dobickonosnosti med leti. Ce je pozitiven pomeni d
 
 ROE izracun:
 1. nacin (racunovodski) $ROE = \frac{dobicek}{kapital}$
-2. nacin (trzni) $ROE =  \frac{dobicek}{trzna kapitalizacija}$
+2. nacin (trzni) $ROE =  \frac{dobicek}{trzna \: kapitalizacija}$
 
-$tržna kapitalizacija = stevilo delnic * vrednost delnice$
+$tržna \: kapitalizacija = stevilo \: delnic * vrednost \: delnice$
 
-$ROE = \frac{NetIncome}{Sales} * \frac{Sales}{TotalAssets} * \frac{TotalAssets}{Equity}$
+$ROE = \frac{Net \: Income}{Sales} * \frac{Sales}{Total \: Assets} * \frac{Total \: Assets}{Equity}$
 se pokrajsa v 
-$ROE = \frac{NetIncome}{Equity}$
+$ROE = \frac{Net \: Income}{Equity}$
 
 COMPEHENSIVE INCOME - vlagatelj?
 CONSOLIDATED INCONE - ??
