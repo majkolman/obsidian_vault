@@ -41,10 +41,10 @@ $Multiplikator \: kapitala \: (equity \: multiplier) = Vsa \: sredstva / Kapital
 Ampak pri tem je potrebno biti pozoren, saj mogoce podjetje uporablja dolge za investicijo v razvoj. Za podjetje je dobro zadeti neki ravnotezje multiplikatorja
 
 Primer apple:
-- Skupna sredstva = $305mil, Lastniski kapital = $130mil
+- Skupna sredstva = 305mil, Lastniski kapital = 130mil
 	$multiplikator \: kapitala = 305/130 = 2,3$
 Primer verizon:
-- Skupna sredstva = $245mil, Kapital = $19mil
+- Skupna sredstva = 245mil, Kapital = 19mil
 	multi = 245/19 = 12
 *Katero je boljse?*
 V tem primeru apple, saj uporablja veliko svojega denarja za rast, ne pa dolgov.
