@@ -39,7 +39,7 @@ Parameter B
 		- v dokument treba napisat kako smo prsl do stev, ce je nivo 1 je potem vrednost wi = 5. to ni dovolj, treba backat up claim z modelman pdf page 23-24. Vzames tabelo in jo izpolnes nato sestejes z formulo na page 24.
 		![[Pasted image 20260309084835.png]]
 - https://www.cs.montana.edu/courses/spring2004/352/public/cocomo/modelman.pdf
-- ==vrednosti nizka,... se preslikajo v stevilke zelo nizka = 5, ..., izjemno visoka = 0==
+==vrednosti nizka,... se preslikajo v stevilke zelo nizka = 5, ..., izjemno visoka = 0==
 
 Parameter M
 - $M = \prod{multiplier_i}$
